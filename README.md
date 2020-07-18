@@ -1,2 +1,3 @@
-# Webscrapper
-A python script to Webscrap Cricbuzz.com and fetch the latest scores in home page
+# Webscraper
+
+This project scrapes Cricbuzz for its articles using BeautifulSoup to create a dataset and then displays the latest scores in Homepage.
